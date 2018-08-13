@@ -6,7 +6,7 @@ const CACHE_NAME = 'v1_cache_pwa';
 
 var urlsToCache = [
     "./",
-    "./css/styles",
+    "./css/styles.css",
     "./img/favicon.png",
     "./img/1.png",
     "./img/2.png",
@@ -26,7 +26,7 @@ var urlsToCache = [
     "./img/favicon-96.png",
     "./img/favicon-64.png",
     "./img/favicon-32.png",
-    "./img/favicon-16.png",
+    "./img/favicon-16.png"
 ];
 
 // Evento install 
